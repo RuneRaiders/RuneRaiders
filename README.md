@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=rect&text=hello)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Can't Lose What You Never Had)
 
 <!--
 **RuneRaiders/RuneRaiders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
