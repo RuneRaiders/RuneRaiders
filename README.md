@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Can't%20Lose%20What%20You%20Never%20Had&fontSize=40)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuneRaiders)](https://github.com/RuneRaiders/github-readme-stats)
 
 <!--
 **RuneRaiders/RuneRaiders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
