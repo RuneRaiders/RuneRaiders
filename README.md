@@ -9,13 +9,12 @@
 <div>
   <!-- Body -->
   ## 👀 About Me
-  #### :raising_hand: 4년차 백엔드 개발자입니다.
-  <br/>
+  #### :raising_hand: 4년차 백엔드 개발자입니다.<br/>
   <br/>
 
   ## 🧱 Tech Stack
   ### Language
-  <!--JavaScript-->
+  <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 </div>
