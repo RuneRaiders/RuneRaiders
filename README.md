@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Can't%20Lose%20What%20You%20Never%20Had&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontSize=40)
 [![RuneRaiders's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuneRaiders)](https://github.com/RuneRaiders/github-readme-stats)
 
 <!--
